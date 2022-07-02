@@ -29,5 +29,44 @@ nav{
 .nav ul li h1{
     font-family: Oleo Script;
 }
+a :hover{
+    color: #0F298B;
+    font-size: x-large;
+}
+.helping ul il{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.why ul li{
+    list-style: none;
+    display:inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.conclusion{
+    background-color: #0F298B;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    color: #2549D3;
+    text-align: center;
+}
+
+.properties{
+    display: inline;
+}
+
+ol,ul {
+    list-style: none;
+    display: inline;
+}
 
 
