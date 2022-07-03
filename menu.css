@@ -67,7 +67,10 @@ p{
 .customers {
     color: #2549D3;
     text-align: center;
+}
 
+.link{
+    text-align: right;
 }
 
 #conclusion{
