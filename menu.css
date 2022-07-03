@@ -3,14 +3,15 @@
     padding: 0;
 }
 .header{
-    min-height: 10vh;
+    min-height: 50px;
     width: 100%;
  }
 nav{
-    display:inline;
-    padding: 2% 6%;
+    display:flex;
+    padding: 10px 50px;
     justify-content: space-between;
-    align-items: justify;
+    border-bottom: 1px solid grey;
+    list-style:none;
 }
 .nav-links{
     flex: 1;
@@ -42,7 +43,7 @@ p{
 #sectionB{
     display:flex;
     padding: 20px;
-    text-align: left;
+    text-align:center;
 }
 #helping {
     
@@ -108,17 +109,22 @@ h6{
     text-align: center;
 }
 
-h7{
+h7 {
     color: #2549D3;
     text-align: center;
+
 }
 
 h8{
-    color: #fafafa;
+    color: black;
     text-align: center;
 }
-
 h9{
+    color: black;
+    text-align: left;
+}
+
+h10{
     color:#fafafa;
     text-align: center;
 }
