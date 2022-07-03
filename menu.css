@@ -64,6 +64,12 @@ p{
     padding: 50PX;
 }
 
+.customers {
+    color: #2549D3;
+    text-align: center;
+
+}
+
 #conclusion{
     display:flex;
     text-align:left;
@@ -80,6 +86,7 @@ p{
     font-style: space;
     font-size: 30;
 }
+
 p{
     text-align: center;
 }
@@ -88,10 +95,6 @@ h2{
     color: #2549D3;
     text-align: left;
 }
-li{
-    padding: 10px;
-}
-
 
 h3{
     color: #2549D3;
@@ -113,11 +116,6 @@ h6{
     text-align: center;
 }
 
-.customers {
-    color: #2549D3;
-    text-align: center;
-
-}
 
 h8{
     color: black;
@@ -133,11 +131,17 @@ h10{
     text-align: center;
 }
 
-
-
 ol,ul {
     list-style: none;
     display: inline;
 }
+
+li{
+    padding: 10px;
+}
+
+
+
+
 
 
