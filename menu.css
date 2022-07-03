@@ -34,17 +34,30 @@ a :hover{
 p{
     text-align: left;
 }
+#sectionA{
+    display:flex;
+    padding: 20px;
+    text-align: left;
+}
+#sectionB{
+    display:flex;
+    padding: 20px;
+    text-align: left;
+}
 #helping {
     
     position: relative;
     text-align: left;
+    display: flex;
 }
-
-.why{
-    list-style: none;
-    display:inline-block;
-    padding: 8px 12px;
-    position: relative;
+#Works{
+ display: flex;
+ padding: 20;
+ text-align: center;
+}
+#Why{
+    display:flex;
+    padding: 50PX;
 }
 
 #conclusion{
