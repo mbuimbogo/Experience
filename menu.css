@@ -7,10 +7,10 @@
     width: 100%;
  }
 nav{
-    display:flex;
+    display:inline;
     padding: 2% 6%;
     justify-content: space-between;
-    align-items: center;
+    align-items: justify;
 }
 .nav-links{
     flex: 1;
@@ -26,21 +26,21 @@ nav{
     color: 2549D3;
     text-decoration: none;
 }
-.nav ul li h1{
-    font-family: Oleo Script;
-}
+
 a :hover{
     color: #0F298B;
     font-size: x-large;
 }
-.helping ul il{
-    list-style: none;
-    display: inline-block;
-    padding: 8px 12px;
+p{
+    text-align: left;
+}
+#helping {
+    
     position: relative;
+    text-align: left;
 }
 
-.why ul li{
+.why{
     list-style: none;
     display:inline-block;
     padding: 8px 12px;
@@ -68,8 +68,12 @@ p{
 
 h2{
     color: #2549D3;
-    text-align: center;
+    text-align: left;
 }
+li{
+    padding: 10px;
+}
+
 
 h3{
     color: #2549D3;
