@@ -56,6 +56,9 @@ p{
  padding: 20;
  text-align: center;
 }
+.description ul li{
+    display:flex
+}
 #Why{
     display:flex;
     padding: 50PX;
@@ -70,6 +73,7 @@ p{
     background-color: #0F298B;
     color: #fafafa;
 }
+
 *{
     padding:0;
     margin:15px;
@@ -92,6 +96,7 @@ li{
 h3{
     color: #2549D3;
     text-align: center;
+    text-align: left;
 }
 
 h4{
