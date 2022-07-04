@@ -4,8 +4,8 @@ I am mbuimbogo currently gaining experience in creating a landing page of an Est
 https://github.com/mbuimbogo/Experience
 
 ###### Things I learnt this week
-1.html elements
-2.using css selectors
-3.box model
+..1.html elements
+..2.using css selectors
+..3.box model
 
-###### The project is hosted at
+###### The project is hosted at https://mbuimbogo.github.io/Experience/
