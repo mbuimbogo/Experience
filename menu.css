@@ -59,17 +59,17 @@ p{
 
 #Works .box1{
     background-clip: border-box;
-    box-shadow: 5px 5px 2em;
+    box-shadow: 3px 4px 1em;
 }
 
 #Works .box2{
     background-clip: border-box;
-    box-shadow: 5px 5px 2em;
+    box-shadow: 3px 4px 1em;
 }
 
 #Works .box3{
     background-clip: border-box;
-    box-shadow: 5px 5px 2em;
+    box-shadow: 3px 4px 1em;
 }
 
 .description ul li{
@@ -86,7 +86,8 @@ p{
 }
 
 .link1{
-    float:right
+    float:right;
+    clear:left;
 }
 
 #conclusion{
