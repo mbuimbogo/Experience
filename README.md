@@ -24,5 +24,5 @@
 ###### Host of the project
 The project is hosted at https://mbuimbogo.github.io/Experience/
 
-####### Author
-Linked in profile www.linkedin.com/in/mbuipeter
+###### Author
+- Linked in profile www.linkedin.com/in/mbuipeter
