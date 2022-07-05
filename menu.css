@@ -56,6 +56,22 @@ p{
  padding: 20;
  text-align: center;
 }
+
+#Works .box1{
+    background-clip: border-box;
+    box-shadow: 5px 5px 2em;
+}
+
+#Works .box2{
+    background-clip: border-box;
+    box-shadow: 5px 5px 2em;
+}
+
+#Works .box3{
+    background-clip: border-box;
+    box-shadow: 5px 5px 2em;
+}
+
 .description ul li{
     display:flex
 }
@@ -70,11 +86,8 @@ p{
 }
 
 .link1{
-    text-align: right;
-    background-color: #0F298B;
-    color: #fafafa;
+    float:right
 }
-
 
 #conclusion{
     display:flex;
@@ -146,20 +159,6 @@ li{
     padding: 10px;
 }
 
-#Works .box1{
-    background-clip: border-box;
-    box-shadow: 5px 5px 2em;
-}
-
-#Works .box2{
-    background-clip: border-box;
-    box-shadow: 5px 5px 2em;
-}
-
-#Works .box3{
-    background-clip: border-box;
-    box-shadow: 5px 5px 2em;
-}
 
 
 
