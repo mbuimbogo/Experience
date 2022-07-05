@@ -25,7 +25,7 @@ I am mbuimbogo currently gaining experience in creating a landing page of an Est
 ###### Host of the project
 The project is hosted at https://mbuimbogo.github.io/Experience/
 
-####### Licence
+###### Licence
 Copyright (c) 2022 [mbuimbogo]
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -46,5 +46,6 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-######## Author
+
+###### Author
 - Linked in profile www.linkedin.com/in/mbuipeter
