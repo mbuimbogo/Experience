@@ -18,7 +18,7 @@ I am mbuimbogo currently gaining experience in creating a landing page of an Est
 ##### Languages used
 - html which was used to build the structure of the pages.
 
-- css which was used to style the pages incuding the left aside navigation bar
+- css which was used to style the pages
 
 
 ###### Host of the project
